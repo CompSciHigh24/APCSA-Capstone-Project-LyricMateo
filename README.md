@@ -1,0 +1,3 @@
+Welcome to BattleShip!
+
+HOW TO PLAY: The computer randomly places 2 enemy ships on a invisible board that you can't see and your goal is to hit all of these ships and destory your enemy. The ships take up 3 cordinate points and are placed either horizontaly or verticaly at random. Your guesses are represented by either a ❌ which means Hit or ⚪ which means miss. The board is a 2D array in whichrows are the horizontal array and the columns are the vertical array. You must input a number between 0-7 to place your guess at the specific point you want. You have 15 guesses to hit all enemy ships. GOOD LUCK!!!!
